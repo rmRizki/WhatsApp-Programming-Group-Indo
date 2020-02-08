@@ -1,4 +1,4 @@
-# WhatsApp-Programming-Group-Indo
+# WhatsApp Programming Group Indonesia
 List of Indonesian Programming Group in WhatsApp
 
 ## List
